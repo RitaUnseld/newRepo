@@ -9,6 +9,7 @@ public class Hello {
 		// remote changes for rebase testing 1
 		// remote change for rebase testing 2
 		// local changes for rebase testing
+		// local changes for rebase testing 2
 		System.out.println("Hello World");
 	}
 
