@@ -7,6 +7,7 @@ public class Hello {
 		// remote update
 		// a 2nd comment
 		// remote changes for rebase testing 1
+		// local changes for rebase testing
 		System.out.println("Hello World");
 	}
 
